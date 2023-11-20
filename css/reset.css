@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Epilogue:wght@800&family=JetBrains+Mono&family=Montserrat&family=Mulish&family=Open+Sans&family=Palanquin&family=Press+Start+2P&family=Roboto&family=Staatliches&display=swap')
+;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Press Start 2P' ;
+    border: none;
+    list-style: none;
+}
